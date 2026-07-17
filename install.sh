@@ -2,7 +2,7 @@
 set -Eeuo pipefail
 
 readonly PROGRAM_NAME="Docker Platform Installer"
-readonly VERSION="1.0.0-dev"
+readonly VERSION="1.0.0"
 readonly REPOSITORY="db-web-solutions/docker-platform"
 readonly API_ROOT="https://api.github.com"
 

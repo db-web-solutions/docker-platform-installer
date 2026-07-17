@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [Unreleased]
 
+## [1.0.0] - 2026-07-17
+
 ### Added
 
 - Added the public Docker Platform bootstrap installer.
@@ -23,3 +25,4 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
   maintenance documentation.
 
 [Unreleased]: https://github.com/db-web-solutions/docker-platform-installer/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/db-web-solutions/docker-platform-installer/releases/tag/v1.0.0
